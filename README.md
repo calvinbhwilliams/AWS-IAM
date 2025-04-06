@@ -9,7 +9,7 @@
 
 ---
 
-![Image](http://learn.nextwork.org/nostalgic_blue_daring_sea_lion/uploads/aws-security-iam_1c864649)
+<img src="http://learn.nextwork.org/nostalgic_blue_daring_sea_lion/uploads/aws-security-iam_1c864649"
 
 ---
 
